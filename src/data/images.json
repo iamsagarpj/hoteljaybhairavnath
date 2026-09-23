@@ -1,0 +1,563 @@
+{
+  "hero-bamnoli-dusk": {
+    "width": 3264,
+    "height": 2448,
+    "widths": [
+      640,
+      960,
+      1440,
+      1920,
+      2560
+    ],
+    "color": "#826ba7",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamnoli,Maharashtra,_India.jpg",
+    "author": "Sumittchavan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "bamnoli-sunset": {
+    "width": 3264,
+    "height": 2448,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#a98f79",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamnoli_Village_Sunset_on_its_Lake,_Satara_,Pune_2.jpg",
+    "author": "Shaybajas",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "boats-jetty": {
+    "width": 3840,
+    "height": 2880,
+    "widths": [
+      640,
+      960,
+      1440,
+      1920,
+      2560
+    ],
+    "color": "#848481",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamnoli_lake,_Satara_-_vrvbsatara102k23iph_(349).jpg",
+    "author": "Vinayaraj",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "boats-moored": {
+    "width": 3840,
+    "height": 2880,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#8c96a1",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamnoli_lake,_Satara_-_vrvbsatara102k23iph_(352).jpg",
+    "author": "Vinayaraj",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "boats-row": {
+    "width": 3840,
+    "height": 2880,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#83878b",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamnoli_lake,_Satara_-_vrvbsatara102k23iph_(353).jpg",
+    "author": "Vinayaraj",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "boats-shore": {
+    "width": 3840,
+    "height": 2880,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#84725f",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamnoli_lake,_Satara_-_vrvbsatara102k23iph_(357).jpg",
+    "author": "Vinayaraj",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "lake-island": {
+    "width": 3840,
+    "height": 2880,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#6e8088",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamnoli_lake,_Satara_-_vrvbsatara102k23iph_(29).jpg",
+    "author": "Vinayaraj",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "lake-shore": {
+    "width": 3840,
+    "height": 2880,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#8f99a5",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamnoli_lake,_Satara_-_vrvbsatara102k23iph_(21).jpg",
+    "author": "Vinayaraj",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "lake-mesa": {
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#67819b",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shivasagar.jpg",
+    "author": "Ameymodak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "lake-flooded-trees": {
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#5a5d40",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamnoli_view_at_Shivsagar_lake.jpg",
+    "author": "Tokendra",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "backwater-sunset": {
+    "width": 3840,
+    "height": 2560,
+    "widths": [
+      640,
+      960,
+      1440,
+      1920,
+      2560
+    ],
+    "color": "#877c88",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_at_Water_Reservoir.jpg",
+    "author": "Ashwin Arun Yadav",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "natural-mirror": {
+    "width": 1920,
+    "height": 1080,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#91887e",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Natural_Mirror.jpg",
+    "author": "Ashwin Arun Yadav",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "backwater-clouds": {
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#757e7e",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wait_for_Monsoon.jpg",
+    "author": "Ashwin Arun Yadav",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "lake-january": {
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#99938a",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shivsagar_Lake_in_January.jpg",
+    "author": "Joseregueiro.78",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "vasota-ridge": {
+    "width": 3840,
+    "height": 2880,
+    "widths": [
+      640,
+      960,
+      1440,
+      1920,
+      2560
+    ],
+    "color": "#9b9790",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vasota_fort_Maharashtra.jpg",
+    "author": "Amolmore8999",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "vasota-view": {
+    "width": 1920,
+    "height": 1080,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#888a8d",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_vasota_fort.jpg",
+    "author": "Suwarna tandale",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "vasota-koyna-view": {
+    "width": 1920,
+    "height": 1080,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#878e94",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_koyna_river.jpg",
+    "author": "Suwarna tandale",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "vasota-backwater": {
+    "width": 1024,
+    "height": 516,
+    "widths": [
+      480,
+      800,
+      1024
+    ],
+    "color": "#5a766f",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vasota.jpg",
+    "author": "Ccmarathe",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "koyna-sanctuary": {
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#56554c",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koyna_Maharashtra.jpg",
+    "author": "Bangal Priti",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "kaas-flowers": {
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#8d8074",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaas_plateau_flowers_1.jpg",
+    "author": "Sheetal Kulkarni",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "kaas-yellow": {
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#8e8970",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaas_plateau_of_flowers,_Maharashtra.jpg",
+    "author": "Aamir Khan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "kaas-sahyadri": {
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#879995",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaas_plateau_flowers_sahyadri_mountains.jpg",
+    "author": "Sheetal Kulkarni",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "kas-lake": {
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#697163",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kas_lake_viewed_from_plateau_(1652102543).jpg",
+    "author": "Dinesh Valke from Thane, India",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "ghats-viewpoint": {
+    "width": 3840,
+    "height": 1616,
+    "widths": [
+      640,
+      960,
+      1440,
+      1920,
+      2560
+    ],
+    "color": "#778281",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Spectacular_Viewpoint_on_Western_Ghats,_India_(Near_Kas_Patthar)_(48847455401).jpg",
+    "author": "Hari K Patibanda",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "vajrai": {
+    "width": 1024,
+    "height": 577,
+    "widths": [
+      480,
+      800,
+      1024
+    ],
+    "color": "#788273",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vajrai_Waterfall.jpg",
+    "author": "नुतन कांबळे",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "thoseghar": {
+    "width": 800,
+    "height": 600,
+    "widths": [
+      480,
+      800
+    ],
+    "color": "#494f49",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thoseghar_Waterfalls_-_Satara,_Pune.jpg",
+    "author": "Challiyan at Malayalam Wikipedia",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "sajjangad": {
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#7d7974",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sajjangad_entrance.jpg",
+    "author": "Himanshu Sarpotdar",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "mahabaleshwar": {
+    "width": 1920,
+    "height": 843,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#a2a29e",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Mahabaleshwar_Krishna_Temple_1.jpg",
+    "author": "Rangan Datta Wiki",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "panchgani": {
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#8b7d87",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Panchgani,_Maharashtra.jpg",
+    "author": "Flickr user (see source page)",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "tapola-forest": {
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#717760",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forest_in_Tapola,_Satara.jpg",
+    "author": "Hanmant Dadaso Rane",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "food-thali": {
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#896848",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maharashtrian_Mejwani.jpg",
+    "author": "Sharvarism",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "food-pithla-bhakri": {
+    "width": 1920,
+    "height": 1198,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#746f59",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pithla_Bhakri_NMM_Soc_Thane_Maharashtra_01.jpg",
+    "author": "Om Bankar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "food-jhunka-bhakri": {
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#6e4d23",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jhunka_Bhakar.JPG",
+    "author": "Ketan.wa",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "food-misal": {
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#7e7971",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
+    "author": "Ankushkr2020",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "food-thali-2": {
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ],
+    "color": "#9e8e76",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maharashtrian_Thali_2.JPG",
+    "author": "Advaitj11",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

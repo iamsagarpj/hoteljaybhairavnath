@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.0 80" width="64" height="80" role="img" aria-labelledby="t">
+  <title id="t">Hotel Jai Bhairavnath emblem</title>
+  <g transform="translate(0 0) scale(1)" fill="none" stroke="#173B32" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9 76V37C9 24.5 19 14.5 32 4C45 14.5 55 24.5 55 37V76Z" stroke-width="2.40"/>
+    <path d="M15.5 52L25 38.5L29.5 44L37 32.5L48.5 52" stroke-width="2.20"/>
+    <path d="M15.5 60q4.125 -3 8.25 0t8.25 0t8.25 0t8.25 0" stroke-width="2.00"/>
+    <path d="M21 66.5q2.75 -2 5.5 0t5.5 0t5.5 0t5.5 0" stroke-width="2.00"/>
+    <circle cx="32" cy="21" r="2.3" fill="#C69252" stroke="none"/>
+  </g>
+</svg>
